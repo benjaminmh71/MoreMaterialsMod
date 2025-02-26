@@ -8,3 +8,5 @@ To Install:
   <li>Then, put the downloaded .dll file in the Bepinex/Plugins file of The Bibites, and place the contents of the Mods folder into the The Bibites_Data/Mods folder of The Bibites.</li>
   <li>You can also install the starter bibite files found here by navigating to the location of the Bibites' saves on your computer once you've run with the mod installed, going to MoreMaterialsMod0.6.0Data, and placing them in the Bibites folder there. Note that this mod stores save files seperately from the regular game.</li>
 </ul>
+
+If you encounter an issue, tell me (FiveBalesOfHay) on either of the The Bibites discord servers.
